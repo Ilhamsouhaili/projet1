@@ -1,8 +1,8 @@
 h1{
-    color: blanchedalmond;
-    background-color: hotpink;
+    color: rgb(83, 53, 9);
+    background-color: rgba(247, 166, 119, 0.69);
     text-align: center;
 }
 body{
-    background-color: lightsteelblue;
+    background-color: rgba(60, 59, 59, 0.998);
 }
